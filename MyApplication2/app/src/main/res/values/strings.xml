@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Somato</string>
+    <string-array name="shopping_item1">
+        <item>Onion</item>
+        <item>Sausage</item>
+        <item>Milk</item>
+        <item>Garlic</item>
+        <item>Beef</item>
+    </string-array>
+
+    <string-array name="shopping_item2">
+        <item>Veggies</item>
+        <item>Olive</item>
+        <item>Cheese</item>
+        <item>Tuna</item>
+        <item>Mushrooms</item>
+    </string-array>
+</resources>
